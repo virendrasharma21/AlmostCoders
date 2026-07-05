@@ -9,3 +9,6 @@ npm install express cors
 
 
 pip install fastapi uvicorn python-multipart
+pip install firebase-admin
+pip install google-generativeai
+pip install pandas
